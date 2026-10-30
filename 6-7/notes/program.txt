@@ -1,0 +1,23 @@
+1) print your name skip
+2) calculator (+,-,*,/) for two value 
+    IInd version (by accepting input from user)
+3) Percentage calculator (accepting marks of 5 subjects)
+    Ist
+        you need to store data -> variable
+        5 subjects-> 5 variables (int)
+        total of all -> 1 variable (int)
+        Percentage -> 1 var (float)
+    IInd
+        accept input from user
+        pair of printf and scanf
+    IIIrd
+        Processing
+            calculate total and then Percentage -> (operators)
+    IVth
+        Show the result -> printf
+
+4) is number +ve,-ve or zero
+5) even or odd 
+6) print your name 10 times
+7) reverse print from 10 to 1
+8) Table of a number 

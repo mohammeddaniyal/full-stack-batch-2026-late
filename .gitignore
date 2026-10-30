@@ -1,0 +1,13 @@
+/bin/
+/6-7/scratch/build-artifacts/
+/cpp/operator-1
+/cpp/polymorphism
+/cpp/runtime-polymorphism
+/cpp/string1
+/cpp/vector
+*.dSYM/
+*.o
+*.obj
+*.out
+*.exe
+.DS_Store

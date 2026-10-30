@@ -1,0 +1,20 @@
+cpp
+
+cout
+cin
+namespace
+OOPS
+{
+Encapsulation
+
+Class 
+Object
+Inheritance
+composition
+Abstraction
+Polymorphism
+}
+Constructor
+Destructor
+
+STL library (data structure)

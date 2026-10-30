@@ -1,0 +1,25 @@
+printf
+variable
+data type
+operators
+scanf
+conditional statement
+    if
+    if-else
+    else-if ladder
+    nested if, if-else 
+    switch case
+Loops
+    while
+    for
+    do-while
+Keyword
+    return
+    break
+    continue
+Array
+String
+Function
+struct
+Pointer
+enum

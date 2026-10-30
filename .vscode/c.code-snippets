@@ -1,0 +1,15 @@
+{
+  "C program structure": {
+    "scope": "c",
+    "prefix": "cmain",
+    "body": [
+      "#include <stdio.h>",
+      "",
+      "int main(void) {",
+      "    $0",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Insert a basic C program structure"
+  }
+}
