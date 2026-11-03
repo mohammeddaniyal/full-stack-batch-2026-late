@@ -27,6 +27,10 @@ class Bank
     {
         cout<<"You Have "<<balance<<".rs"<<endl;
     }
+    // Overload the + operator to add balances of two bank accounts
+    int operator+(Bank &other) {
+        return balance+other.balance;
+    }
 
 };
 
@@ -46,6 +50,8 @@ int main()
     int b=20;
 
     cout<<a+b<<endl;
+
+    cout<<"Total : "<<canara+sbi<<endl;
 
     
     return 0;
